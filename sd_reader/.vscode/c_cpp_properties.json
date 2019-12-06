@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/lib/ccache/avr-gcc",
+            "cStandard": "c99",
+            "cppStandard": "c++17",
+            "compilerArgs": [
+                "-Wall", "-pedantic", "-mmcu=atmega328"
+            ],
+            "defines": [
+                "F_CPU=16000000"
+            ]
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name final)(type Legacy)(uri ${KIPRJMOD}/final.lib)(options "")(descr ""))
+  (lib (name final_project-rescue)(type Legacy)(uri ${KIPRJMOD}/final_project-rescue.lib)(options "")(descr ""))
+)

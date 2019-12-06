@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "sd_reader"
+		},
+		{
+			"path": "lcd_disp"
+		},
+		{
+			"path": "testing"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"io.h": "c",
+			"interrupt.h": "c",
+			"periph.h": "c",
+			"comms.h": "c",
+			"string.h": "c",
+			"main.h": "c",
+			"sleep.h": "c"
+		}
+	}
+}
